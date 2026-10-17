@@ -64,9 +64,7 @@
 </div>
 <br>
 
-<p align="center">
-  <i>Pin your favorite repos on your GitHub profile settings — they'll show up automatically above this README on your profile page.</i>
-</p>
+
 
 <hr>
 
